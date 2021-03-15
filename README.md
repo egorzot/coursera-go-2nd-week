@@ -1,0 +1,1 @@
+Run tests `go test -v -race`
